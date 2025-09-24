@@ -3,11 +3,6 @@ This is a fully responsive Google Gemini-themed web application built using mode
 
 ---
 
-## Demo
-🚀 You can view the live demo of the project here: [Click me](https://gemini-s32a.onrender.com/)
-
----
-
 ## Features
 - Clean and modern UI inspired by the official Google Gemini interface.
 - Fully responsive design that adapts seamlessly to any screen size.
@@ -16,13 +11,6 @@ This is a fully responsive Google Gemini-themed web application built using mode
 - Organized layout with separate sections for messages, input, and navigation.
 - Minimal yet functional design optimized for readability and focus.
 - Custom styling for buttons, inputs, and conversation bubbles to match Gemini’s look.
-
----
-
-## Screenshots
-<p align="center">
-  <img src="./src/assets/Screenshot.png" alt="Gemini Clone Screenshot" width="800">
-</p>
 
 ---
 
